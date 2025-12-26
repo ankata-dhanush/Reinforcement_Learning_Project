@@ -1,6 +1,4 @@
-Here’s a well-structured README file for your **Reinforcement Learning (RL) SARSA Project** based on the code and details you provided:
 
----
 
 # Reinforcement Learning Project: SARSA Agent in Grid Environment
 
